@@ -27,3 +27,4 @@ Reviewing the application we'll look at the following aspects:
 ### Links To Specific Challenges
 
 - [Go Programming Challenge](https://github.com/24metrics/coding-challenges/blob/master/go-challenge.md)
+- [React.js Programming Challenge](https://github.com/24metrics/coding-challenges/blob/master/react-challenge.md)
