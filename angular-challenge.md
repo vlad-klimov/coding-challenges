@@ -1,18 +1,18 @@
-### 24metrics.io React.js Programming Challenge
+### 24metrics.io Angular Programming Challenge
 
 Hello 👋 This is 24metrics's challenge for potential new engineering team members.
 
 #### Instructions
 
  - The time limit is **1 day**
- - You shall complete this challenge using **React.js**
+ - You shall complete this challenge using latest version of **Angular** framework
  - You should try to show your development process to present a **production-ready** code
  - Please, describe your approach, technical choices and anything you want us to know in a README.md file
  - **Do not publish** your work on a GitHub or other public platforms
 
 #### Requirements
 
-Create a demo calendar application using React & Redux.
+Create a demo calendar application.
 
 Features:
 
@@ -26,9 +26,9 @@ Features:
 
 #### Notes
 
- - Even if it's only an interview challenge, we expect you to provide a solution you would do in a professional situation.
- - It should be fun for yourself. Email us if it's not something that will show your React.js skills.
  - You may use any styling you want but it should look clean.
+ - Even if it's only an interview challenge, we expect you to provide a solution you would do in a professional situation.
+ - It should be fun for yourself. Email us if it's not something that will show your Angular skills.
 
 #### Done?
 
