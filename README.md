@@ -10,10 +10,6 @@ Include the following in your README:
 - The reasoning behind your technical decisions: trade-offs you might have made, anything you left out, or what you might do differently if you had additional time.
 - How you would proceed and why.
 
-### Commit History
-
-Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that is fine. We just ask that you keep your commit history as clean as possible.
-
 ### What We Care About
 
 Reviewing the application we'll look at the following aspects:
